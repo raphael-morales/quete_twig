@@ -1,0 +1,13 @@
+{
+    "name": "raphael/quete_twig",
+    "description": "quete twig",
+    "authors": [
+        {
+            "name": "raphael-morales",
+            "email": "raphael.morales@hotmail.fr"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
